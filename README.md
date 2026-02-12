@@ -10,7 +10,9 @@ My past proejcts include:
 - Codenvy.io (acquired by Red hat)
 - ExecVision.io (acquired by MediaFly)
 
-Today, I spend most of time working on [Jozu](https://jozu.com), contributing to open source [KitOps](https://kitops.ml), and helping early-stage, VC-backed companies differentiate themselves and communicate value through [Stori](https://GoStori.com). 
+I've also played key roles in messaging Red Hat's acquisition by IBM to the Red Hat Developer community, growing adoption and awareness of open source Eclipse Che, and orchestrating a joing GTM for AWS' Container, Kubernetes, and Serverless products. 
+
+Today, I spend most of time working on [Jozu](https://jozu.com) and contributing to open source [KitOps](https://kitops.ml).
 
 If you're interested in following along with my journey, check out [my Twitter/X account](https://x.com/friendscallmejw) where I share my random thoughts.
 
